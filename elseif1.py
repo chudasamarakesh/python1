@@ -163,6 +163,7 @@ if male_sign == "aries" or male_sign == "libra":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "cancer" or female_sign == "capricorn":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "taurus" or male_sign == "scorpio":
     if female_sign == "taurus" or female_sign == "cancer" or female_sign == "virgo" or female_sign == "scorpio" or female_sign == "capricorn" or female_sign == "pisces":
         print("Favourable : should be an excellent love match")
@@ -170,6 +171,7 @@ elif male_sign == "taurus" or male_sign == "scorpio":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "leo" or female_sign == "aquarius":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "gemini" or male_sign == "sagittarius":
     if female_sign == "aries" or female_sign == "gemini" or female_sign == "leo" or female_sign == "libra" or female_sign == "sagittarius" or female_sign == "aquarius":
         print("Favourable : should be an excellent love match")
@@ -177,6 +179,7 @@ elif male_sign == "gemini" or male_sign == "sagittarius":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "virgo" or female_sign == "pisces":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "cancer":
     if female_sign == "taurus" or female_sign == "cancer" or female_sign == "virgo" or female_sign == "scorpio" or female_sign == "capricorn" or female_sign == "pisces":
         print("Favourable : should be an excellent love match")
@@ -184,6 +187,7 @@ elif male_sign == "cancer":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "aries" or female_sign == "libra":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "leo":
     if female_sign == "aries" or female_sign == "gemini" or female_sign == "leo" or female_sign == "libra" or female_sign == "sagittarius" or female_sign == "aquarius":
         print("Favourable : should be an excellent love match")
@@ -191,6 +195,7 @@ elif male_sign == "leo":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "taurus" or female_sign == "scorpio" or female_sign == "pisces":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "virgo" or male_sign == "pisces":
     if female_sign == "taurus" or female_sign == "cancer" or female_sign == "virgo" or female_sign == "scorpio" or female_sign == "capricorn" or female_sign == "pisces":
         print("Favourable : should be an excellent love match")
@@ -198,11 +203,13 @@ elif male_sign == "virgo" or male_sign == "pisces":
         print("Less favourable : may be good, but both of you need to continue to work on the relationship")
     elif female_sign == "gemini" or female_sign == "sagittarius":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "capricorn":
     if female_sign == "taurus" or female_sign == "cancer" or female_sign == "virgo" or female_sign == "scorpio" or female_sign == "capricorn" or female_sign == "pisces":
         print("Favourable : should be an excellent love match")
     elif female_sign == "aries" or female_sign == "gemini" or female_sign == "leo" or female_sign == "libra" or female_sign == "sagittarius" or female_sign == "aquarius":
         print("critical : can be hard to make this relationship progress smoothly")
+        
 elif male_sign == "aquarius":
     if female_sign == "aries" or female_sign == "gemini" or female_sign == "leo" or female_sign == "libra" or female_sign == "sagittarius" or female_sign == "aquarius":
         print("Favourable : should be an excellent love match")
